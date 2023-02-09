@@ -8,9 +8,12 @@ department at the US Naval Academy in support of the EW202 principles of Mechatr
 
 3D Rendering in KiCad of PCB
 
+
 ![EW202_FY23_RP2040pico_PixyCam_Schematic](https://user-images.githubusercontent.com/5246863/217828866-47694f33-3395-44ca-8cc1-422c827a5181.JPG)
+
 Schematic in KiCad
 
 ![EW202_FY23_RP2040pico_PixyCam_PCBcad](https://user-images.githubusercontent.com/5246863/217828705-7ea2cc95-8868-4a84-b352-8af210b700cc.JPG)
+
 KiCad PCB file
 
