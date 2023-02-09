@@ -12,3 +12,4 @@ Schematic in KiCad
 
 ![EW202_FY23_RP2040pico_PixyCam_PCBcad](https://user-images.githubusercontent.com/5246863/217828705-7ea2cc95-8868-4a84-b352-8af210b700cc.JPG)
 KiCad PCB file
+
