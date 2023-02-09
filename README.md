@@ -5,6 +5,7 @@ using a dual servo pan and tilt platform.  There are also two potentiometers for
 department at the US Naval Academy in support of the EW202 principles of Mechatronics course.
 
 ![EW202_FY23_RP2040pico_PixyCam](https://user-images.githubusercontent.com/5246863/217828681-84c1c6af-556a-428d-b6d0-5f7df50ef4b0.JPG)
+
 3D Rendering in KiCad of PCB
 
 ![EW202_FY23_RP2040pico_PixyCam_Schematic](https://user-images.githubusercontent.com/5246863/217828866-47694f33-3395-44ca-8cc1-422c827a5181.JPG)
